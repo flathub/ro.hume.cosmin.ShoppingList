@@ -1,7 +1,7 @@
 {
     "app-id" : "ro.hume.cosmin.ShoppingList",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "shopping-list",
     "finish-args" : [
@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/cosmin/shopping-list.git",
-                    "tag" : "v0.1.5",
-                    "commit" : "39ee1229b0ade8ae0f2020b5dfad734fc3bd2ced"
+                    "tag" : "v0.1.6",
+                    "commit" : "fe1807f7e39127336dee8e84957042bdcae66480"
                 }
             ],
             "config-opts" : [
